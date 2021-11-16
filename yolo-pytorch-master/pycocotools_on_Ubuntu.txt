@@ -1,0 +1,18 @@
+#how to install pycocotools on Ubuntu
+
+#ssh command
+
+pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+
+pip install cython
+
+git clone https://github.com/cocodataset/cocoapi 
+
+cd ~/cocoapi
+
+cd PythonAPI
+
+make
+
+pip install pycocotools
+
