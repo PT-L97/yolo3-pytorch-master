@@ -84,6 +84,10 @@ This paper would use Pascal VOC XML Annotation Format.
 
 <img src="https://github.com/PT-L97/yolo3-pytorch-master/blob/a63f6ab2a27d8517523bd53ec4c17545a7bf85fa/yolo-pytorch-master/map_out/results/mAP.png" width="800"/>
 
+Predict demo:
+
+<img src="https://github.com/PT-L97/yolo3-pytorch-master/blob/d1f04acec896bd22de34e02a4fc5ab4a322a5b0c/yolo-pytorch-master/img_out/test100173.jpg" width="800"/>
+
 for more details: map_out
 
 ## Reference
