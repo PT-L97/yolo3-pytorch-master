@@ -64,7 +64,7 @@ if __name__ == "__main__":
             else:
                 r_image = yolo.detect_image(image)
                 r_image.show()
-                #r_image.save("img.jpg")
+                r_image.save("img.jpg")
 
     elif mode == "video":
         capture = cv2.VideoCapture(video_path)
